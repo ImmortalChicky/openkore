@@ -39,7 +39,8 @@
 
 # All items not mentioned in this file will be automatically stored in storage.
 all 0 1 0
-
+Kafra Card 0 0 0
+Blue Gemstone 0 0 0
 
 ##### HEAL/SUPPORT ITEMS #####
 # Adjust these to your needs
